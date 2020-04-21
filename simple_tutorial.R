@@ -5,7 +5,7 @@ library("rjson")
 
 getDataFromEVA <- function(endpoint){
   username <- "username"
-  password <- "password"
+  password <- "********"
   
   base <- "https://dev.evaplus.com/EvaCloudAPI/"
   
